@@ -1,4 +1,4 @@
-# Akguc Seramik Tamir ve Bakim Talep Sistemi
+# Tamir ve Bakim Talep Sistemi
 
 Bu proje, fabrikadan tamir veya bakima gonderilen malzemelerin kaydini tutmak ve durum takibini yapmak icin hazirlandi.
 
@@ -45,14 +45,9 @@ Bu proje, fabrikadan tamir veya bakima gonderilen malzemelerin kaydini tutmak ve
 - Kullanici adi: `admin`
 - Parola: `System.01`
 
-## Proje Konumu
-
-`C:\Users\Hakan\Documents\TamirBakimTalepApp`
-
 ## Calistirma
 
-```powershell
-cd C:\Users\Hakan\Documents\TamirBakimTalepApp
+\TamirBakimTalepApp
 dotnet run
 ```
 
