@@ -1,0 +1,7 @@
+C:\Users\Hakan\Documents\TamirBakimTalepYayin_v2\NuGet.Config
+C:\Users\Hakan\Documents\TamirBakimTalepYayin_v2\Data\requests.json
+C:\Users\Hakan\Documents\TamirBakimTalepYayin_v2\Data\users.json
+C:\Users\Hakan\Documents\TamirBakimTalepYayin_v2\TamirBakimTalepApp.dll
+C:\Users\Hakan\Documents\TamirBakimTalepYayin_v2\TamirBakimTalepApp.deps.json
+C:\Users\Hakan\Documents\TamirBakimTalepYayin_v2\TamirBakimTalepApp.runtimeconfig.json
+C:\Users\Hakan\Documents\TamirBakimTalepYayin_v2\TamirBakimTalepApp.pdb
